@@ -1,0 +1,11 @@
+requsts
+sys
+random
+json
+datetime
+PyQt5
+numpy
+pandas
+matplotlib
+dateutil
+mplfinance
